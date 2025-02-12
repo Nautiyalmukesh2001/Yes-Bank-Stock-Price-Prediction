@@ -53,3 +53,19 @@ The dataset consists of historical **Yes Bank stock prices**, including:
 🔹 Scikit-learn (Linear Regression, Lasso, Ridge)  
 
 
+## Usage
+
+To explore the project, follow these steps:
+
+1. Clone the repository.
+2. Open the Jupyter Notebook in Google Colab.
+3. Run the cells to execute the code and view the visualizations.
+
+## Author
+
+* Mukesh Nautiyal
+* LinkedIn: [https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/]
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
