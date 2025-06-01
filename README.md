@@ -61,10 +61,13 @@ To explore the project, follow these steps:
 2. Open the Jupyter Notebook in Google Colab.
 3. Run the cells to execute the code and view the visualizations.
 
-## Author
+## Conclusion
 
-* Mukesh Nautiyal
-* LinkedIn: [https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/]
+This project demonstrates how time series and machine learning models can effectively forecast Yes Bank's closing stock prices, aiding risk management and investment decisions. While challenges remain, future improvements like adding macroeconomic data and deep learning could boost accuracy.
+
+Feel free to connect with me for questions or collaboration!
+
+
 
 ## License
 
