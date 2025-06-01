@@ -61,9 +61,6 @@ To explore the project, follow these steps:
 2. Open the Jupyter Notebook in Google Colab.
 3. Run the cells to execute the code and view the visualizations.
 
-## Conclusion
-
-This project demonstrates how time series and machine learning models can effectively forecast Yes Bank's closing stock prices, aiding risk management and investment decisions. While challenges remain, future improvements like adding macroeconomic data and deep learning could boost accuracy.
 
 Feel free to connect with me for questions or collaboration!
 
